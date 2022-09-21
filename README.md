@@ -1,1 +1,2 @@
- this is alx-low_level_programming language
+oject on Pointers, arrays and strings
+
