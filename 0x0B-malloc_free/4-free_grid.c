@@ -13,9 +13,3 @@ void free_grid(int **grid, int height)
 		free(grid[i]);
 		free(grid);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Securi
